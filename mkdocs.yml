@@ -29,6 +29,7 @@ pages:
     - Spring Cloud for Amazon Web Services: project/SpringCloudforAmazonWebServices.md
     - Spring Cloud Connectors: project/SpringCloudConnectors.md
     - Spring Cloud CLI: project/SpringCloudCLI.md
+    - Spring Cloud Contract: project/SpringCloudContract.md
 - Spring Cloud翻译文档:
     - Spring Cloud Eureka: user-guide/eureka.md
     - 声明式REST客户端Feign: user-guide/feign.md
